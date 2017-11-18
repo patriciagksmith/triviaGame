@@ -1,0 +1,85 @@
+
+body{
+	background-image: url("../images/dogs.png");
+	font-family: 'open sans',sans-serif;
+	font-size:16px;
+	line-height: 22px;
+	padding-bottom:10px;
+	padding-top:30px;
+	text-align:left;
+	color:#000000;
+}
+input{
+	font-family: 'open sans',sans-serif;
+	font-size: 16px;
+	margin-left:20px;
+	margin-bottom:50px;
+}
+
+.box {
+	background-color:#ece1cc;
+	border-radius: 22px;
+	opacity: 30%;
+	width:700px;
+	border:solid 12px #a88067;
+	box-shadow: 10px 10px 50px 5px #666666;
+	padding:20px;
+	margin-top:20px;
+	margin-left:auto;
+	margin-right:auto;
+}
+div{
+	background-color: #ece1cc;
+	margin: 10px;
+	padding: 10px;
+}
+
+h1{
+	font-family: 'Henny Penny', cursive;
+	color:#a88067;
+	font-weight: bold;
+	text-align: center;
+	font-size: 56px;
+	margin-bottom:30px;
+	margin-top:20px;
+}
+h2{
+	font-family: 'open sans',sans-serif;
+	text-align: left;
+	font-size:24px;
+	line-height:34px;
+	margin-bottom:10px;
+}
+h3{
+	font-family: 'open sans',sans-serif;
+	text-align: center;
+	font-size:18px;
+	margin-top:20px;
+	font-weight:bold;
+	margin-bottom:20px;
+}
+#done{
+	color:#ffffff;
+	text-transform:uppercase;
+	width:200px;
+	height:50px;
+	float:left;
+	font-size:20px;
+	margin-bottom:40px;
+	background-color:#7db901;
+
+}
+#start{
+	color:#ffffff;
+	text-transform:uppercase;
+	width:200px;
+	height:50px;
+	margin-top:50px;
+	margin-left:180px;
+	font-size:20px;
+	margin-bottom:40px;
+	background-color:#7db901;
+
+}
+
+
